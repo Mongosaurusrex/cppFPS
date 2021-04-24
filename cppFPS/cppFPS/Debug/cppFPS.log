@@ -1,0 +1,4 @@
+﻿  cppFPS.cpp
+C:\Users\Mongosaurus\Projects\cppFPS\cppFPS\cppFPS\cppFPS.cpp(17,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Mongosaurus\Projects\cppFPS\cppFPS\cppFPS\cppFPS.cpp(114,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  cppFPS.vcxproj -> C:\Users\Mongosaurus\Projects\cppFPS\cppFPS\Debug\cppFPS.exe
